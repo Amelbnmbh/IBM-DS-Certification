@@ -1,4 +1,4 @@
-# IBM-DS-Certification
+# Classification
 
 ## Machine learning certification with Python 
 - Compare and contrast linear classification methods including multiclass prediction, support vector machines, and logistic regression
